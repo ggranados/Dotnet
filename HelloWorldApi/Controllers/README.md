@@ -21,6 +21,7 @@ info: Microsoft.Hosting.Lifetime[0]
 Content root path: C:\Users\Ana\MyMicroservice\
 ~~~
 
+Wait for the app to display that it's listening on http://localhost:<port number>, and then open a browser and navigate to http://localhost:<port number>/WeatherForecast.
 
 In this example, it showed that it was listening on port 5020, so the following image shows the URL http://localhost:5020/WeatherForecast.
 
